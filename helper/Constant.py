@@ -9,5 +9,5 @@ class Constant:
     ## despues se consultan los moves
     pk_urls = [
         "https://pokeapi.co/api/v2/pokemon-form/id/",
-        "https://pokeapi.co/api/v2/move/id/"
+        " https://pokeapi.co/api/v2/move-category/id/"
     ]
